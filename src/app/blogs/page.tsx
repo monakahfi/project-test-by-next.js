@@ -1,5 +1,6 @@
 import Article from '@/components/Article'
 import Container from '@/components/Container'
+import Link from 'next/link';
 import React from 'react'
 
 
@@ -21,8 +22,10 @@ async function Blogs() {
         <div className='grid grid-cols-4 gap-4 py-16  '>
            {
             data.map((i)=>(
-
-                <Article key={i.id}{...i}/>
+                   <Link href={`blogs/${i.id}`}>
+                   
+                   <Article key={i.id}{...i}/>
+                   </Link>
             ))
            }
           
