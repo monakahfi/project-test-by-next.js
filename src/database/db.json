@@ -1,0 +1,16 @@
+{
+    "articles":[
+        {
+            "id": 1 ,
+            "img": "/image/1.jfif",
+            "title": "title 1",
+            "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sapiente beatae quidem pariatur repudiandae, voluptas reiciendis iusto rerum ab, alias eos delectus veritatis eveniet aut inventore, laudantium explicabo placeat iste odio totam eius maxime! Placeat aliquid accusamus iusto ullam perspiciatis rem consequatur commodi, ad culpa nemo. Alias quasi laudantium quam sint."
+        },
+          {
+            "id": 2,
+            "img": "/image/2.jfif",
+            "title": "title 2",
+            "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sapiente beatae quidem pariatur repudiandae, voluptas reiciendis iusto rerum ab, alias eos delectus veritatis eveniet aut inventore, laudantium explicabo placeat iste odio totam eius maxime! Placeat aliquid accusamus iusto ullam perspiciatis rem consequatur commodi, ad culpa nemo. Alias quasi laudantium quam sint."
+        }
+    ]
+}
