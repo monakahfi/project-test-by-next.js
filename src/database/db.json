@@ -1,16 +1,28 @@
 {
-    "articles":[
-        {
-            "id": "1" ,
-            "img": "/image/1.jfif",
-            "title": "title 1",
-            "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sapiente beatae quidem pariatur repudiandae, voluptas reiciendis iusto rerum ab, alias eos delectus veritatis eveniet aut inventore, laudantium explicabo placeat iste odio totam eius maxime! Placeat aliquid accusamus iusto ullam perspiciatis rem consequatur commodi, ad culpa nemo. Alias quasi laudantium quam sint."
-        },
-          {
-            "id": "2",
-            "img": "/image/2.jfif",
-            "title": "title 2",
-            "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sapiente beatae quidem pariatur repudiandae, voluptas reiciendis iusto rerum ab, alias eos delectus veritatis eveniet aut inventore, laudantium explicabo placeat iste odio totam eius maxime! Placeat aliquid accusamus iusto ullam perspiciatis rem consequatur commodi, ad culpa nemo. Alias quasi laudantium quam sint."
-        }
-    ]
+  "articles": [
+    {
+      "id": "1",
+      "img": "/image/1.jfif",
+      "title": "title 1",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sapiente beatae quidem pariatur repudiandae, voluptas reiciendis iusto rerum ab, alias eos delectus veritatis eveniet aut inventore, laudantium explicabo placeat iste odio totam eius maxime! Placeat aliquid accusamus iusto ullam perspiciatis rem consequatur commodi, ad culpa nemo. Alias quasi laudantium quam sint."
+    },
+    {
+      "id": "2",
+      "img": "/image/2.jfif",
+      "title": "title 2",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sapiente beatae quidem pariatur repudiandae, voluptas reiciendis iusto rerum ab, alias eos delectus veritatis eveniet aut inventore, laudantium explicabo placeat iste odio totam eius maxime! Placeat aliquid accusamus iusto ullam perspiciatis rem consequatur commodi, ad culpa nemo. Alias quasi laudantium quam sint."
+    },
+    {
+      "id": "893",
+      "img": "C:\\fakepath\\photo_3_2025-02-06_12-29-59.jpg",
+      "title": "title 4",
+      "description": "interface for the iPhone. Onstage, Jobs was also clearly enamored of the simplicity with which you could scroll through phone numbers, and the fact that the dial pad appeared on the screen instead of requiring permanent plastic buttons. \"The killer app is making calls,\" Jobs exclaimed to applause during his keynote. It's not until thirty-three minutes into that famed presentation that he gets around to highlighting features like improved text messaging and mobile internet access that dominate the way we now use these devices. To confirm that this limited vision was not some quirk of Jobs's keynote script, I spoke with Andy Grignon, who was one of the original iPhone team members. \"This was supposed to be an iPod that made phone calls,\" he confirmed. \"Our core mission was playing music and making phone calls.\" As Gri-gnon then explained to me, Steve Jobs was initially dismissive of the idea that the iPhone would become more of a general-purpose mobile computer running a variety of different third-party applications. \"The second we allow some knucklehead programmer to write some code that crashes it,\" Jobs once told Grignon, \"that will be when they want to call 911.\""
+    },
+    {
+      "id": "61",
+      "img": {},
+      "title": "title 3",
+      "description": "lnlaNclaNcfkla;DBcf;abcf"
+    }
+  ]
 }

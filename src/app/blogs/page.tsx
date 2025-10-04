@@ -6,7 +6,7 @@ import React from 'react'
 
 export interface  IGetArticle {
     id?:number,
-    img: string,
+    img: File,
     title: string,
     description: string,
 

@@ -6,6 +6,7 @@ function Navebar() {
     <div className=' shadow p-4 flex gap-3'>
         <Link href="/">home</Link>
         <Link href="/blogs">blogs</Link>
+        <Link href="/create-blogs"> create blogs</Link>
     </div>
   )
 }
